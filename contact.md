@@ -1,7 +1,8 @@
 # Kontakt und Impressum
 
-sales@nogago.com
-Dial +49 7083 9328 339
+E-Mail: sales@nogago.com
+
+Telefon: +49 7083 9328 339
 
 nogago GmbH
 Kirchhaldenweg 10
