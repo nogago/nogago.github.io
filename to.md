@@ -1,6 +1,6 @@
 Your use of the NOGAGO platform (nogago.com) is bound to the following terms of service. If you register as a user of NOGAGO, you agree to these terms of service. Please do not register, if you do not agree to these terms. The terms of service may change at any time. You will be notified by e-mail two weeks in advance of any change.
 
-**PLEASE NOTE THAT THE GERMAN VERSION IS LEGALLY BINDING. THIS ENGLISH TRANSLATION IS PROVIDED FOR INFORMATION ONLY.**
+**PLEASE NOTE THAT THE [GERMAN VERSION IS LEGALLY BINDING](de/to). THIS ENGLISH TRANSLATION IS PROVIDED FOR INFORMATION ONLY.**
 
 # Terms of service for nogago.com 
 
