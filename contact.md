@@ -4,9 +4,7 @@ E-Mail: sales@nogago.com
 
 Telefon: +49 7083 9328 339
 
-nogago GmbH
-Kirchhaldenweg 10
-D-76597 Loffenau, Germany
+Anschrift: nogago GmbH, Kirchhaldenweg 10, D-76597 Loffenau, Germany
 
 
 # Unternehmensdaten
