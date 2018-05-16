@@ -1,2 +1,0 @@
-# Über nogago
-Auf Deutsch
