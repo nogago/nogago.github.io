@@ -1,35 +1,23 @@
 --- 
 layout: default 
-title: Last Posts 
+title: nogago is shutting down...
 ---
 
-<!-- Show last 5 posts here -->
-{% for post in paginator.posts %}
-<article>
+# nogago is shutting down...
 
-    <header>
-        <h2><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
-        <span class="date"><i class="icon-clock"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/>
-        <span class="category"><i class="icon-tag"></i> {{ post.categories | category_links }}</span><br/>
-        <span class="author"><i class="icon-user"></i> {% if post.author %}{{post.author}}{% else %}{{site.author}}{% endif%}</span>
-    </header>
+Dear users,
 
-    <div class="entry">{{ post.excerpt }}</div>
+thanks for using nogago apps since 2009. Unfortunately we have no longer financial and personal ressources to support the app, continue its' development and operate the infrastructure.
 
-</article>
-{% endfor %}
+We have already stopped the download of the apps in all appstores. The source code will still be available on github.com (see link above), and we would be happy, if someone is picking up our code base and continues the development. We are happy to help out by answering questions 
 
+The service of nogago.com will terminate by end of June 2018 and is no longer accepting new users. Please download maps that you need for your journeys until then from download.nogago.com and make sure to download your tracks that were uploaded to the nogago.com portal until end of June.
 
-<div id="paginator">
-    {% if paginator.next_page %}
-    <a href="{{site.baseurl}}/page{{paginator.next_page}}">
-            &laquo; Older Posts</a> {% endif %} {% if paginator.previous_page %} {% if paginator.previous_page == 1 %}
-    <span class="more">
-                <a href="{{site.baseurl}}/">
-                Newer Posts &raquo; </a>
-                </span> {% else %}
-    <span class="more">
-                <a href="{{site.baseurl}}/page{{paginator.previous_page}}">
-                Newer Posts &raquo; </a>
-                </span> {% endif %} {% endif %}
-</div>
+The apps themselves may continue to work with exception of track upload to the portal and map download. While our code base and functionality is stable, the primary issue will be the compatibility with new Android versions, which happen to be shifting sands for developers.
+
+You can do the environment some good and just buy a used smartphone. Our apps work best on BlackBerry 10 devices, and Android devices with Android 2 to 5.
+
+We wish you all the best for your journeys and adventures and thank you for your companionship in the last nine years.
+
+Saartje Brockmans, Stefan Lanz, Markus Noga and Raphael Volz
+Inventors and Founders of nogago
