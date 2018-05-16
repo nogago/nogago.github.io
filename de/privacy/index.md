@@ -38,11 +38,21 @@ Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und Antwo
 
 # Ergänzungen auf Grund der DSGVO (Datenschutzgrundverordnung)
 
+* Version 1.2, gültig ab 25.5.2018, zuletzt überarbeitet am 16.5.2018 *
+
+## Welche persönlichen Daten speichert nogago.com
+Persönliche Daten werden stets freiwillig und auf Ihren Wunsch verarbeitet, eine Nutzung der Webseiten und Apps ist auch ohne nogago.com Konto möglich. Sofern sie sich entscheiden ein nogago.com Konto anzulegen, werden folgende Daten erhoben:
+
+1. nogago Apps speichern Benutzername und Passwort, um in der Lage zu sein Tracks auf nogago.com hochzuladen. 
+1. nogago Tracks speichert Aufzeichnungen Ihres Standorts auf Ihrem Gerät.
+1. nogago.com speichert Benutzername und Passwort, um ihre GPS-Tracks zu speichern und auf ihre Verkäufe zuzugreifen
+
+GPS-Tracks, die sie hochladen, enthalten natürlich eine Reihe GPS-Positionen, die verraten zu welchem Zeitpunkt sie an welchem Ort waren. Der Upload von GPS-Tracks auf nogago.com ist freiwillig, sofern sie Tracks aufzeichnen und auf ihrem Gerät belassen, werden folglich keine persönlichen Daten an uns weitergegeben.
+
+Die Log-Dateien des Servers werden von manchen Juristen als persönliche Daten betrachtet, diese werden aus technischen Gründen zum Schutz vor Hacker-Angriffen und Verhinderung von Datendiebstahl geführt (siehe Ausführungen oben), und anderweitig nicht weiter untersucht.
+
 ## Weitergabe an Dritte
-
-Wirnehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf nogago.com und dessen Unterseiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. 
-
-Diese Daten werden ohne Ihre ausdrückliche Zustimmung inhaltlich nicht an Dritte weitergegeben. Firmen mit denen wir einen Auftragsdatenverarbeitungsvertrag abgeschlossen haben, haben sich verpflichtet auf die Inhalte, die von der technischen Infrastruktur verwaltet werden, nicht zuzugreifen. 
+Ihre Daten werden ohne Ihre ausdrückliche Zustimmung inhaltlich nicht an Dritte weitergegeben. Firmen mit denen wir einen Auftragsdatenverarbeitungsvertrag abgeschlossen haben, haben sich verpflichtet auf die Inhalte, die von der technischen Infrastruktur verwaltet werden, welche Auftragsdatenverarbeiter betreiben, nicht zuzugreifen. 
 
 Folgende Firmen erbringen technische Leistungen, die für den Betrieb von nogago.com erforderlich sind:
 
@@ -52,7 +62,7 @@ Folgende Firmen erbringen technische Leistungen, die für den Betrieb von nogago
 - Collmex GmbH, Saarbrücken: Rechnungsstellung und Buchhaltung (sofern Sie etwas bei uns einkaufen)
 - Volz Innovation GmbH, Loffenau: Softwareentwicklung und technische Administration
 
-Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. 
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nach aktuellem Stand der Technik nicht möglich. 
 
 ## Cookies 
 
