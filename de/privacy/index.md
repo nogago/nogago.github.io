@@ -1,4 +1,6 @@
-# Datenschutzerklärung - Datenverarbeitung auf nogago.com und blog.nogago.com
+# Datenschutzerklärung
+
+## Datenverarbeitung auf nogago.com
 Wir, das nogago Team und alle Mitarbeiter der Nogago GmbH und Ihrer Muttergesellschaft Volz Innovation GmbH, nehmen den Schutz Ihrer persönlichen Daten sehr ernst und halten uns strikt an die Regeln der deutschen Datenschutzgesetze. Personenbezogene Daten werden auf dieser Webseite nur im technisch notwendigen Umfang erhoben. In keinem Fall werden die erhobenen Daten verkauft oder aus anderen Gründen an Dritte weitergegeben, es sei denn es liegt eine gerichtliche Anordnung vor. Die nachfolgende Erklärung gibt Ihnen einen Überblick darüber, wie wir ihren Datenschutz gewährleisten und welche Art von Daten zu welchem Zweck erhoben werden.
 
 ## Logdateien
