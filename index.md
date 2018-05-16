@@ -1,4 +1,7 @@
---- layout: default title: Last Posts ---
+--- 
+layout: default 
+title: Last Posts 
+---
 
 <!-- Show last 5 posts here -->
 {% for post in paginator.posts %}
