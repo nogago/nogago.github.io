@@ -38,7 +38,7 @@ Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und Antwo
 
 # Ergänzungen auf Grund der DSGVO (Datenschutzgrundverordnung)
 
-* Version 1.2, gültig ab 25.5.2018, zuletzt überarbeitet am 16.5.2018 *
+*Version 1.2, gültig ab 25.5.2018, zuletzt überarbeitet am 16.5.2018*
 
 ## Welche persönlichen Daten speichert nogago.com
 Persönliche Daten werden stets freiwillig und auf Ihren Wunsch verarbeitet, eine Nutzung der Webseiten und Apps ist auch ohne nogago.com Konto möglich. Sofern sie sich entscheiden ein nogago.com Konto anzulegen, werden folgende Daten erhoben:
