@@ -9,9 +9,9 @@ Sehr geehrte Benutzer,
 
 danke für die Nutzung der nogago Apps seit 2009. Leider haben wir keine finanziellen und personellen Ressourcen mehr, um die App weiter zu unterstützen, zu entwickeln und die notwendige Infrastruktur zu betreiben.
 
-Wir haben den Download der Apps in allen Appstores bereits gestoppt. (Der Quellcode unserer App wird weiterhin auf github.com verfügbar sein)[https://github.com/nogago/nogago] und wir würden uns freuen, wenn jemand unsere Codebasis aufgreift und die Entwicklung der Apps fortsetzt. Wir helfen dabei gerne bei Fragen weiter. 
+Wir haben den Download der Apps in allen Appstores bereits gestoppt. [Der Quellcode unserer App wird weiterhin auf github.com verfügbar sein](https://github.com/nogago/nogago) und wir würden uns freuen, wenn jemand unsere Codebasis aufgreift und die Entwicklung der Apps fortsetzt. Wir helfen dabei gerne bei Fragen weiter. 
 
-(www.nogago.com)[http://www.nogago.com/] wird Ende Juni 2018 abgestellt und akzeptiert bereits seit April 2018 keine neuen Nutzer mehr. Bitte laden Sie die Karten, die Sie für Ihre Reisen benötigen bis Juni 2018 von (download.nogago.com)[http://download.nogago.com/] oder über die Maps App herunter und stellen Sie sicher, dass Sie Ihre Tracks, die bis Ende Juni auf das nogago.com-Portal hochgeladen wurden, sichern.
+[www.nogago.com](http://www.nogago.com/) wird Ende Juni 2018 abgestellt und akzeptiert bereits seit April 2018 keine neuen Nutzer mehr. Bitte laden Sie die Karten, die Sie für Ihre Reisen benötigen bis Juni 2018 von [download.nogago.com](http://download.nogago.com/) oder über die Maps App herunter und stellen Sie sicher, dass Sie Ihre Tracks, die bis Ende Juni auf das nogago.com-Portal hochgeladen wurden, sichern.
 
 **Wir löschen alle Daten am 30. Juni 2018** (mit Ausnahme von Rechnungen, die wir aufgrund gesetzlicher Verpflichtungen bis Ende 2028 aufbewahren müssen).
 
@@ -21,5 +21,6 @@ Sie können diesem Problem entgehen und dabei der Umwelt etwas Gutes tun, indem 
 
 Wir wünschen Ihnen alles Gute für Ihre zukünftigen Reisen und Abenteuer und danken Ihnen für Ihre Begleitung in den letzten neun Jahren.
 
-*Saartje Brockmans, Stefan Lanz, Markus Noga und Raphael Volz
-Erfinder und Gründer von nogago*
+*Saartje Brockmans, Stefan Lanz, Markus Noga und Raphael Volz*
+
+*Erfinder und Gründer von nogago*
