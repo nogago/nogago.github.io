@@ -38,9 +38,21 @@ Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und Antwo
 
 # Ergänzungen auf Grund der DSGVO (Datenschutzgrundverordnung)
 
-## Keine Weitergabe an Dritte
+## Weitergabe an Dritte
 
-Die Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf nogago.com und dessen Unterseiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. 
+Wirnehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung. Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf nogago.com und dessen Unterseiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. 
+
+Diese Daten werden ohne Ihre ausdrückliche Zustimmung inhaltlich nicht an Dritte weitergegeben. Firmen mit denen wir einen Auftragsdatenverarbeitungsvertrag abgeschlossen haben, haben sich verpflichtet auf die Inhalte, die von der technischen Infrastruktur verwaltet werden, nicht zuzugreifen. 
+
+Folgende Firmen erbringen technische Leistungen, die für den Betrieb von nogago.com erforderlich sind:
+
+- United Domains, Starnberg: E-Mail und Domainverwaltung
+- Github, Inc., USA: Hosting von blog.nogago.com und Verwaltung von Software-Quellcode
+- Hetzner Online GmbH, Gunzenhausen: Hosting, Serverbetrieb für www.nogago.com (dort werden ihre nogago.com Benutzerdaten gespeichert)
+- Collmex GmbH, Saarbrücken: Rechnungsstellung und Buchhaltung (sofern Sie etwas bei uns einkaufen)
+- Volz Innovation GmbH, Loffenau: Softwareentwicklung und technische Administration
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. 
 
 ## Cookies 
 
