@@ -9,6 +9,14 @@
 </head>
 
 <body>
+    <section class="page-header">
+        <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+        {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a> {% endif %} {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a> {% endif %}
+    </section>
 
     <section class="main-content">
         {{ content }}
@@ -17,15 +25,14 @@
 
 
 </body>
-<footer>
-    <ul>
-        <li><a href="http://blog.nogago.com/de/about/" target="_blank">&Uuml;ber nogago</a></li>
-        <li><a href="http://blog.nogago.com/de/to/" target="_blank">AGB</a></li>
-        <li><a href="http://blog.nogago.com/de/privacy/" target="_blank">Datenschutz</a></li>
-        <li><a href="http://blog.nogago.com/de/contact/" target="_blank">Impressum</a></li>
-        <li><a href="http://blog.nogago.com/de/nogago-frequently-asked-questions-faq/" target="_blank">FAQs</a></li>
-        <li><a href="http://blog.nogago.com/de/" class="lastFooterLink" target="_blank">Blog</a></li>
-    </ul>
+<footer class="site-footer">
+    <span class="site-footer-credits">
+    <a href="http://blog.nogago.com/de/about/" target="_blank">&Uuml;ber nogago</a> |
+    <a href="http://blog.nogago.com/de/to/" target="_blank">AGB</a> |
+    <a href="http://blog.nogago.com/de/privacy/" target="_blank">Datenschutz</a> |
+    <a href="http://blog.nogago.com/de/contact/" target="_blank">Impressum</a> |
+    <a href="http://blog.nogago.com/de/nogago-frequently-asked-questions-faq/" target="_blank">FAQs</a>
+    </span>
 </footer>
 
 </html>
