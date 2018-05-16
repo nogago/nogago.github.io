@@ -1,9 +1,9 @@
 --- 
 layout: default 
-title: nogago sagt Tschüss...
+title: nogago sagt Lebewohl!
 ---
 
-# nogago sagt Tschüss...
+# nogago sagt Lebewohl!
 
 Sehr geehrte Benutzer,
 
