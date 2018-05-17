@@ -7,7 +7,7 @@ title: nogago is shutting down...
 
 Dear users,
 
-thanks for using nogago apps since 2009. Unfortunately we have no longer ressources to support the apps, continue its development and operate the infrastructure.
+thanks for using nogago apps since 2009. Unfortunately we have no longer resources to support the apps, continue its development and operate the infrastructure.
 
 We have already stopped the distribution of the apps in all app stores. [The source code will still be available on github.com](https://github.com/nogago/nogago), and we would be happy, if someone were to pick up our code base and continue the development. We are happy to help out by answering questions via E-Mail.
 
